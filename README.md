@@ -1,6 +1,5 @@
 ````markdown
 # NLP Amazon Reviews Project
-![NLP Amazon Reviews](images/amazon_reviews_banner.png)
 
 ## Overview
 This project demonstrates a **complete Natural Language Processing (NLP) workflow** on Amazon Redmi Note 8 reviews.  
